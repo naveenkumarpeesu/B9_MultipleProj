@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RadioButtonPractice</string>
+    <string name="snackbar_action_undo">Undo</string>
+</resources>
